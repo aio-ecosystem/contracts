@@ -1,0 +1,19 @@
+{
+	"name": "aio",
+	"version": "1.0.0",
+	"description": "AIO contracts",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {
+		"@nomicfoundation/hardhat-toolbox": "^2.0.2",
+		"hardhat": "^2.14.0"
+	},
+	"dependencies": {
+		"@openzeppelin/contracts": "^4.8.3",
+		"@pancakeswap-libs/pancake-swap-core": "^0.1.0"
+	}
+}
